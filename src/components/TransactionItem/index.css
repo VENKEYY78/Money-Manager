@@ -1,0 +1,18 @@
+.history-list {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: 2px solid #d7dfe9;
+  padding: 20px;
+}
+
+.button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+
+.delete {
+  height: 30px;
+}
